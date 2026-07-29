@@ -1,0 +1,16 @@
+# PlatformIO
+.pio/
+# ROS 2 build
+build/
+install/
+log/
+# VS Code / Python
+.vscode/
+__pycache__/
+*.pyc
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
